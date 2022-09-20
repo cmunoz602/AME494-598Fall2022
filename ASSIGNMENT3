@@ -1,0 +1,80 @@
+<!doctuype html>
+<html>
+<head>
+  <title> My Resume </title>
+  <style>
+    th, td {
+      border: 1px solid black;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+
+<body>
+<img src='https://media.istockphoto.com/photos/portrait-of-smiling-handsome-man-in-blue-tshirt-standing-with-crossed-picture-id1045886560?k=20&m=1045886560&s=612x612&w=0&h=JL8Dy_sRUXJo6PofsX7XkQpWjSTDhD8LuV071LMlb3Y='>
+<h1> Cristian Munoz </h1>
+<a href=''><address> 4444 W Wumbo St, Avondale Az </address></a>
+<a href=''><phone> 602-555-7712 </phone></a>
+
+<h2> Objective </h2>
+<p> Get a web programming job. </p>
+    
+<h2> Education </h2>
+	<table style='border: 1px solid black;border-collapse: collapse'>
+		<thead>
+			<tr>
+				<th>ASU</th>
+				<th>EMCC</th>
+				<th>AFHS</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>&nbsp;Grad:2023</td>
+				<td>&nbsp;Grad:2021</td>
+				<td>&nbsp;Grad:2016</td>
+			</tr>
+			<tr>
+				<td>&nbsp;BS</td>
+				<td>&nbsp;AA</td>
+				<td>&nbsp;Diploma</td>
+			</tr>
+			<tr>
+				<td>&nbsp;Digital Culture</td>
+				<td>&nbsp;Arts</td>
+				<td>&nbsp;HS Diploma</td>
+			</tr>
+		</tbody>
+	</table>
+
+<h2> Experience </h2>
+
+<ol>
+<li>
+<strong> Automotive Technician: </strong> 
+Worked with Mazda for 4 years, assisted with vehicle maintenance as well as electrical repairs along with system updates and datalogging to ensure vehicle works properly
+
+</li>
+<li>
+
+<strong> (imaginary job) </strong> 
+Assisted with helping ... and provided exceptional serive for ... while creating a positive work enviornment...
+
+</li>
+<li>
+
+<strong> Walmart </strong> 
+Assistant the store with..... While creating an energetic enviornment for all employees.... Managed ....
+
+
+</li>
+</ol>
+
+<h2> References </h2>
+<ul>
+  <li>David Granero 602-478-4865</li>
+  <li>Luis Torres 602-542-7785 </li>
+</ul>
+
+</body>
+</html>
